@@ -3,7 +3,7 @@
 
 ---
 **Where is vuln**: in search parameter
-**Goal0**: **Goal**: Perform an XSS attack that bypasses the CSP and calls the `alert` function. Note: intended solution only works in Chrome.
+**Goal0**: Perform an XSS attack that bypasses the CSP and calls the `alert` function. Note: intended solution only works in Chrome.
 
 
 ---
